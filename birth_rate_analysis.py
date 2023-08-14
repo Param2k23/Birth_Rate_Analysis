@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1oKdIn8CnHwFKNY4FXSThxDxhgIgbcfZG
 
 # **DS Project - Birth Rate Analysis**
-By :
-Param Patel - IU2041050086 ,
-Dhruvan Vagadiya - IU2041050134
 
 # ----> Importing Libraries
 """
